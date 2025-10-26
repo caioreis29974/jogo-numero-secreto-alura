@@ -1,9 +1,19 @@
-# 🎮 Jogo do Número Secreto
+<h1 align="center">🎮 Jogo do Número Secreto</h1> 
 
-![Badge](https://img.shields.io/badge/Status-Concluído-green)
-![Badge](https://img.shields.io/badge/Curso-Alura-blue)
+<p align="center">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Concluído-green">
+  <img alt="Curso" src="https://img.shields.io/badge/Curso-Alura-blue">
+</p>
 
-Projeto desenvolvido durante o curso **"Lógica de programação: explore funções e listas"** da [Alura](https://www.alura.com.br/).
+<div align="center">
+  <img src="./img/prtsc.png" alt="demo do jogo" width="800px"/>
+</div>
+
+<p align="center">
+  Projeto desenvolvido durante o curso <b>"Lógica de programação: explore funções e listas"</b> da <a href="https://www.alura.com.br/">Alura</a>.
+</p>
+
+---
 
 ## 📖 Sobre o Projeto
 
